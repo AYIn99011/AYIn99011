@@ -2,7 +2,7 @@
 
 # Hi there, I'm AYIn 👋
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Windows+%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E8%80%85;iOS+%E6%8A%98%E8%85%BE%E7%88%B1%E5%A5%BD%E8%80%85)
+Windows 工具开发者 / iOS 折腾爱好者
 
 </div>
 
