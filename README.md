@@ -1,21 +1,15 @@
-# 系统工具箱 SystemTool
+<div align="center">
 
-WPF Windows 系统工具箱：清理 / 优化 / 修复 / 设备信息 / 日志，.NET 10 + Win11 Fluent UI（Acrylic 强模糊，自动跟随系统深浅色）。
+# Hi there, I'm AYIn 👋
 
-## 构建
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Windows+%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E8%80%85;iOS+%E6%8A%98%E8%85%BE%E7%88%B1%E5%A5%BD%E8%80%85)
 
-需要 .NET 10 SDK（Windows）：
+</div>
 
-```powershell
-dotnet build -c Release
-```
-
-或推送 `v*` tag 触发 GitHub Actions 自动构建混淆单文件包。
-
-## 目录
-
-- `Pages/`：各功能页面（清理 / 优化 / 修复 / 设备信息 / 工具 / 日志）
-- `Styles/`：Fluent 主题与控件样式（`Theme.Dark.xaml` / `Theme.Light.xaml`）
-- `Helpers/`：`MicaHelper`（Acrylic/Mica 背景）、`ThemeManager`（系统主题跟随）
-- `Services/`：`LogService` 等
-- `GEEK.exe` / `Win11Debloat.zip`：内置第三方工具（随包调用）
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AYIn99011/AYIn99011/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AYIn99011/AYIn99011/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AYIn99011/AYIn99011/output/github-snake.svg" />
+</picture>
+</div>
